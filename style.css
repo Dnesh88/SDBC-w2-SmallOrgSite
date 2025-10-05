@@ -144,6 +144,10 @@ input[type="text"] {
   margin: 10px 0px;
 }
 
+input[type="text"]:focus {
+  outline: none;
+}
+
 input[type="button"] {
   background: #780fa8;
   color: white;
